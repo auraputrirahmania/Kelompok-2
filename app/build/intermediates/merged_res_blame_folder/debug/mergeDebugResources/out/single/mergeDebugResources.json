@@ -1,0 +1,154 @@
+[
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.resepmasakan.app-debug-32:\\drawable_nasi_goreng.jpg.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.resepmasakan.app-main-34:\\drawable\\nasi_goreng.jpg"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.resepmasakan.app-debug-32:\\drawable_es_cendol.jpg.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.resepmasakan.app-main-34:\\drawable\\es_cendol.jpg"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.resepmasakan.app-debug-32:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.resepmasakan.app-main-34:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.resepmasakan.app-debug-32:\\menu_main_menu.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.resepmasakan.app-main-34:\\menu\\main_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.resepmasakan.app-debug-32:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.resepmasakan.app-main-34:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.resepmasakan.app-debug-32:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.resepmasakan.app-main-34:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.resepmasakan.app-debug-32:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.resepmasakan.app-main-34:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.resepmasakan.app-debug-32:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.resepmasakan.app-main-34:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.resepmasakan.app-debug-32:\\drawable-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.resepmasakan.app-pngs-28:\\drawable-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.resepmasakan.app-debug-32:\\layout_activity_akun.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.resepmasakan.app-main-34:\\layout\\activity_akun.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.resepmasakan.app-debug-32:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.resepmasakan.app-main-34:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.resepmasakan.app-debug-32:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.resepmasakan.app-main-34:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.resepmasakan.app-debug-32:\\drawable_bakso.jpg.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.resepmasakan.app-main-34:\\drawable\\bakso.jpg"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.resepmasakan.app-debug-32:\\drawable_pisang_goreng.jpg.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.resepmasakan.app-main-34:\\drawable\\pisang_goreng.jpg"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.resepmasakan.app-debug-32:\\drawable-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.resepmasakan.app-pngs-28:\\drawable-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.resepmasakan.app-debug-32:\\drawable-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.resepmasakan.app-pngs-28:\\drawable-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.resepmasakan.app-debug-32:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.resepmasakan.app-main-34:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.resepmasakan.app-debug-32:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.resepmasakan.app-pngs-28:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.resepmasakan.app-debug-32:\\drawable_app.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.resepmasakan.app-main-34:\\drawable\\app.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.resepmasakan.app-debug-32:\\drawable-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.resepmasakan.app-pngs-28:\\drawable-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.resepmasakan.app-debug-32:\\drawable_soto_ayam.jpeg.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.resepmasakan.app-main-34:\\drawable\\soto_ayam.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.resepmasakan.app-debug-32:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.resepmasakan.app-main-34:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.resepmasakan.app-debug-32:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.resepmasakan.app-main-34:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.resepmasakan.app-debug-32:\\layout_activity_detail_resep.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.resepmasakan.app-main-34:\\layout\\activity_detail_resep.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.resepmasakan.app-debug-32:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.resepmasakan.app-main-34:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.resepmasakan.app-debug-32:\\drawable-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.resepmasakan.app-pngs-28:\\drawable-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.resepmasakan.app-debug-32:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.resepmasakan.app-main-34:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.resepmasakan.app-debug-32:\\drawable_rendang.jpg.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.resepmasakan.app-main-34:\\drawable\\rendang.jpg"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.resepmasakan.app-debug-32:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.resepmasakan.app-main-34:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "com.example.resepmasakan.app-debug-32:/layout_item_resep.xml.flat",
+        "source": "com.example.resepmasakan.app-main-34:/layout/item_resep.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.resepmasakan.app-debug-32:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.resepmasakan.app-main-34:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.resepmasakan.app-debug-32:\\layout_activity_resep.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.resepmasakan.app-main-34:\\layout\\activity_resep.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.resepmasakan.app-debug-32:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.resepmasakan.app-main-34:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.resepmasakan.app-debug-32:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.resepmasakan.app-main-34:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.resepmasakan.app-debug-32:\\layout_item_resep.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.resepmasakan.app-main-34:\\layout\\item_resep.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.resepmasakan.app-debug-32:\\drawable-ldpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.resepmasakan.app-pngs-28:\\drawable-ldpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.resepmasakan.app-debug-32:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.resepmasakan.app-main-34:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.resepmasakan.app-debug-32:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.resepmasakan.app-main-34:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    }
+]

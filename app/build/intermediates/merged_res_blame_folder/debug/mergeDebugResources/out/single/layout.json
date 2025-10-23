@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.resepmasakan.app-mergeDebugResources-31:\\layout\\activity_resep.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.resepmasakan.app-main-34:\\layout\\activity_resep.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.resepmasakan.app-mergeDebugResources-31:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.resepmasakan.app-main-34:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.resepmasakan.app-mergeDebugResources-31:\\layout\\activity_detail_resep.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.resepmasakan.app-main-34:\\layout\\activity_detail_resep.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.resepmasakan.app-mergeDebugResources-31:\\layout\\item_resep.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.resepmasakan.app-main-34:\\layout\\item_resep.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.resepmasakan.app-mergeDebugResources-31:\\layout\\activity_akun.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.resepmasakan.app-main-34:\\layout\\activity_akun.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.resepmasakan.app-mergeDebugResources-31:\\layout\\activity_register.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.resepmasakan.app-main-34:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.resepmasakan.app-mergeDebugResources-31:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.resepmasakan.app-main-34:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.example.resepmasakan.app-mergeDebugResources-31:/layout/item_resep.xml",
+        "source": "com.example.resepmasakan.app-main-34:/layout/item_resep.xml"
+    }
+]
